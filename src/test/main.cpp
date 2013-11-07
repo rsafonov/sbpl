@@ -27,8 +27,6 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-//test,.,/,.,/.,/.,/.,/,/.,
-
 #include <cmath>
 #include <cstring>
 #include <iostream>
