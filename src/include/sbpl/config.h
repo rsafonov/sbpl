@@ -50,12 +50,12 @@
 /**
  * \brief regular debugging
  */
-#define DEBUG 1
+#define DEBUG 2
 
 /**
  * \brief timing debugging
  */
-#define TIME_DEBUG 0
+#define TIME_DEBUG 1
 
 /**
  * \brief small epsilon for various floating error checking
