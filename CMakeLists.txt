@@ -7,7 +7,7 @@ set(SBPL_MINOR_VERSION 1)
 set(SBPL_PATCH_VERSION 4)
 set(SBPL_VERSION ${SBPL_MAJOR_VERSION}.${SBPL_MINOR_VERSION}.${SBPL_PATCH_VERSION})
 
-set(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_BUILD_TYPE RelWithDebInfo)
 
 include_directories(src/include)
 
