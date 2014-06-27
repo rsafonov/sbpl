@@ -55,7 +55,7 @@
 /**
  * \brief timing debugging
  */
-#define TIME_DEBUG 1
+#define TIME_DEBUG 0
 
 /**
  * \brief small epsilon for various floating error checking
